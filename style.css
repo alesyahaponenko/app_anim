@@ -313,6 +313,7 @@ img {
 
 .text1,
 .text2 {
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
   font-size: clamp(1rem, 2.344rem + 3.7798vw, 9.375rem);
   font-weight: bold;
   color: #fff;
